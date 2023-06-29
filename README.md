@@ -8,11 +8,6 @@ This is a web application built with JavaScript, CSS, and HTML that allows you t
 - Toggle between dark and light mode for better visibility.
 - Responsive design for a seamless experience on different devices.
 
-## Screenshots
-
-![Light Mode]("screenshots/light_mode.png")
-![Dark Mode]("screenshots/Dark_mode.png")
-
 ## Demo
 
 You can try out the live demo of this project [here](https://master--guileless-flan-95e959.netlify.app/)
@@ -33,12 +28,12 @@ Click the "Fetch Profile" button to retrieve the user's GitHub profile informati
 To switch between dark and light mode, click the toggle switch in the top-right corner.
 ## Contributing
 Contributions are always welcome! If you have any suggestions, improvements, or bug fixes, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature/fix.
+3. Make the necessary changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request.
 
-Fork the repository.
-Create a new branch for your feature/fix.
-Make the necessary changes and commit them.
-Push your changes to your forked repository.
-Submit a pull request.
 
 ## Acknowledgements
 GitHub API: GitHub REST API v3
