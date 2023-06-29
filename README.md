@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F1F7F4&width=441&height=55&lines=Glad+to+see+you+here+inside+my+Repo-%22Git_Detector%22)](https://git.io/typing-svg)
 # GitHub Profile Fetcher
 
 This is a web application built with JavaScript, CSS, and HTML that allows you to fetch a user's GitHub profile by their username. The application also provides a dark and light mode toggle for a better user experience.
